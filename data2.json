@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "fname": "Adel",
+        "lname": "Ahmed",
+        "age": "40",
+        "city": "Cairo"
+    },
+    {
+        "id": "2",
+        "fname": "Adel",
+        "lname": "Ahmed",
+        "age": "40",
+        "city": "Cairo"
+    },
+    {
+        "id": "3",
+        "fname": "Adel",
+        "lname": "Ahmed",
+        "age": "40",
+        "city": "Cairo"
+    },
+    {
+        "id": "7",
+        "fname": "Adel",
+        "lname": "Ahmed",
+        "age": "40",
+        "city": "Cairo"
+    }
+]
